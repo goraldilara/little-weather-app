@@ -3,8 +3,8 @@ A RESTful Spring Boot project that shows weather information using the OpenWeath
 
 # General info
 This project is a backend project that has these 2 main operations: 
-  Retrieving the weather data of the taken city name through One Call API 2.5. and One Call API 3.0 provides by https://openweathermap.org/
-  Provide the weather forecast and, given a city, must provide the following information for the next 48 hours:
+  Retrieving the weather data of the taken city name through One Call API 2.5. and One Call API 3.0 provided by https://openweathermap.org/
+  Provides the weather forecast and, given a city, must provide the following information for the next 48 hours:
       - maximum, feels like temperatures, humidity
   
 # Technologies
