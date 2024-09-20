@@ -13,4 +13,5 @@ public class DataNotFoundException extends RuntimeException{
     public DataNotFoundException(Throwable cause) {
         super(cause);
     }
+
 }
