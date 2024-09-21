@@ -1,5 +1,5 @@
 # little-weather-app
-A RESTful Spring Boot project that shows weather information using the OpenWeather API
+A RESTful Spring Boot project that shows the weather information by using the OpenWeather API
 
 # General info
 This project is a backend project that has these 2 main operations: 
