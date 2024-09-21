@@ -10,7 +10,7 @@ import lombok.*;
 @NoArgsConstructor
 @Getter
 @Setter
-public class CityInfoDTO {
+public class CityInfo {
     public Coord coord;
     public ArrayList<Weather> weather;
     public String base;
