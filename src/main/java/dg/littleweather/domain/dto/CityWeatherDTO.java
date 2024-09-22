@@ -1,6 +1,8 @@
 package dg.littleweather.domain.dto;
 
 import java.util.ArrayList;
+import java.util.List;
+
 import lombok.*;
 
 @Builder
@@ -11,6 +13,6 @@ import lombok.*;
 public class CityWeatherDTO {
 
     private String city_name;
-    private ArrayList<HourlyDataDTO> hourlyData;
+    private List<HourlyDataDTO> hourlyData;
 
 }

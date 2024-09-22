@@ -13,4 +13,6 @@ public class LittleWeatherConstants {
     public static final int HTTP_100 = 100;
     public static final String INTERNAL_SERVER_ERROR = "Internal Server Error";
 
+    private static final String REDIS_KEY = "User";
+
 }
