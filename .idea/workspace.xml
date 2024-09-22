@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac67b84b-db49-40a1-a0d9-f84af37076a8" name="Changes" comment="DB connections has been made with JPARepository" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hibernate" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;goraldilara&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/goraldilara/little-weather-app.git&quot;,
+    &quot;accountId&quot;: &quot;83df3b7d-6dac-444b-bae9-e52b120bce50&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mLLrIlz2h0JIOV7nx3siOg20Cs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.LittleWeatherApp.executor": "Run",
+    "Maven.Unknown [clean,compile].executor": "Run",
+    "Maven.Unknown [clean].executor": "Run",
+    "Maven.Unknown [compile].executor": "Run",
+    "Maven.Unknown [install].executor": "Run",
+    "Maven.little-weather-forecast [clean,compile].executor": "Run",
+    "Maven.little-weather-forecast [clean].executor": "Run",
+    "Maven.little-weather-forecast [compile].executor": "Run",
+    "Maven.little-weather-forecast [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/projects/littleweatherv2",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\little-weather-app" />
+      <recent name="C:\projects\little-weather-app\src\main\java\dg\littleweather\entity" />
+      <recent name="C:\projects\little-weather-app\src" />
+      <recent name="C:\projects\little-weather-app\src\main\java\dg\littleweather" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LittleWeatherApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dg.littleweather.LittleWeatherForecastApplication" />
+      <module name="little-weather-forecast" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="little-weather-app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="little-weather-app" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac67b84b-db49-40a1-a0d9-f84af37076a8" name="Changes" comment="" />
+      <created>1726851107085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726851107085</updated>
+    </task>
+    <task id="LOCAL-00001" summary="deneme">
+      <option name="closed" value="true" />
+      <created>1726851477450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726851477450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Classes has been modified (service and entity excepted)">
+      <option name="closed" value="true" />
+      <created>1726857388951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726857388951</updated>
+    </task>
+    <task id="LOCAL-00003" summary="All classes/services have been modified">
+      <option name="closed" value="true" />
+      <created>1726897365156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726897365156</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DB connections has been made with JPARepository">
+      <option name="closed" value="true" />
+      <created>1726982422712</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726982422712</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deneme" />
+    <MESSAGE value="Classes has been modified (service and entity excepted)" />
+    <MESSAGE value="All classes/services have been modified" />
+    <MESSAGE value="DB connections has been made with JPARepository" />
+    <option name="LAST_COMMIT_MESSAGE" value="DB connections has been made with JPARepository" />
+  </component>
+</project>
